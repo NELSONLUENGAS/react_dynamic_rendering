@@ -11,13 +11,13 @@ const Footer = (props) => {
 							href="/"
 							className="mb-3 me-2 mb-md-0 text-body-secondary text-decoration-none lh-1"
 						>
-							<svg
+							{/* <svg
 								className="bi"
 								width="30"
 								height="24"
 							>
 								<use xlink:href="#bootstrap"></use>
-							</svg>
+							</svg> */}
 						</a>
 						<span className="mb-3 mb-md-0 text-white">© 2024 Company, Inc</span>
 					</div>
@@ -28,13 +28,13 @@ const Footer = (props) => {
 								className="text-body-secondary"
 								href="#"
 							>
-								<svg
+								{/* <svg
 									className="bi"
 									width="24"
 									height="24"
 								>
 									<use xlink:href="#twitter"></use>
-								</svg>
+								</svg> */}
 							</a>
 						</li>
 						<li className="ms-3">
@@ -42,13 +42,13 @@ const Footer = (props) => {
 								className="text-body-secondary"
 								href="#"
 							>
-								<svg
+								{/* <svg
 									className="bi"
 									width="24"
 									height="24"
 								>
 									<use xlink:href="#instagram"></use>
-								</svg>
+								</svg> */}
 							</a>
 						</li>
 						<li className="ms-3">
@@ -56,13 +56,13 @@ const Footer = (props) => {
 								className="text-body-secondary"
 								href="#"
 							>
-								<svg
+								{/* <svg
 									className="bi"
 									width="24"
 									height="24"
 								>
 									<use xlink:href="#facebook"></use>
-								</svg>
+								</svg> */}
 							</a>
 						</li>
 					</ul>

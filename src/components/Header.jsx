@@ -11,7 +11,7 @@ const Header = (props) => {
 							href="/"
 							className="d-inline-flex link-body-emphasis text-decoration-none"
 						>
-							<svg
+							{/* <svg
 								className="bi"
 								width="40"
 								height="32"
@@ -19,7 +19,7 @@ const Header = (props) => {
 								aria-label="Bootstrap"
 							>
 								<use xlink:href="#bootstrap"></use>
-							</svg>
+							</svg> */}
 						</a>
 					</div>
 
